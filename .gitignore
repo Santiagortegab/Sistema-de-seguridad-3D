@@ -1,0 +1,5 @@
+envSistemaSeguridad3D/
+__pycache__/
+*.pyc
+*.mp4
+*.pt
